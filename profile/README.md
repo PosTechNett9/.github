@@ -41,10 +41,12 @@ Cliente → API Gateway → Microsserviços
          Payments → Fila → Lambda
 ```
 
+![Diagrama de Funcionamento](https://i.imgur.com/sz91AXU.jpeg)
+
 ## 🚀 Tecnologias Utilizadas
 
 - **Cloud Provider**: AWS
-- **Banco de Dados**: SQL Server
+- **Banco de Dados**: SQL Server / PostgreSQL
 - **Serverless**: AWS Lambda
 - **API Gateway**: AWS API Gateway
 - **Mensageria**: AWS SQS
@@ -54,7 +56,7 @@ Cliente → API Gateway → Microsserviços
 ## 📦 Repositórios
 
 - **Users Service**: https://github.com/FiapPosTechNett9/tech-challenge-users
-- **Games Service**: [link do repositório]
+- **Games Service**: https://github.com/FiapPosTechNett9/tech-challenge-games
 - **Payments Service**: https://github.com/FiapPosTechNett9/tech-challenge-payments
 
 ## 🛠️ Configuração e Instalação
@@ -69,7 +71,7 @@ Cliente → API Gateway → Microsserviços
 1. Clone os repositórios:
 ```bash
 git clone https://github.com/FiapPosTechNett9/tech-challenge-users
-git clone [url-games-service]
+git clone https://github.com/FiapPosTechNett9/tech-challenge-games
 git clone https://github.com/FiapPosTechNett9/tech-challenge-payments
 ```
 
@@ -268,8 +270,7 @@ npm run dev
 
 ## 🔗 Links Úteis
 
-- [Documentação de Arquitetura](link-para-miro-ou-diagrama)
-- [Repositório Users](link)
-- [Repositório Games](link)
-- [Repositório Payments](link)
-- [Vídeo Demonstração](link-youtube)
+- [Repositório Users](https://github.com/FiapPosTechNett9/tech-challenge-users)
+- [Repositório Games](https://github.com/FiapPosTechNett9/tech-challenge-games)
+- [Repositório Payments](https://github.com/FiapPosTechNett9/tech-challenge-payments)
+- [Diagrama de Funcionamento](https://miro.com/welcomeonboard/RmF1dzFJYUsyZktpWXgyMTQ3anQ1TGtySnFnVi9vbkl3azY4R1JrYzRIblM3OWJ0ZFYzSVVyQ1I5S0JyK1hmSnVWcjJOZy9lYmVXTnRpWWo3SThUUGs5UDFPa3BjaFVMQ1dWTXFmVTNHT2FyTTF1akI1aCt5d0Z5WFoydXlkbWpBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=870211838882)
