@@ -106,10 +106,10 @@ Esta **Fase 4** implementa uma solução completa usando:
 
 ## 🔗 Links
 
-- [Vídeo Demonstração](https://youtube.com/...)
-- [Repositório Users](https://github.com/FiapPosTechNett9/tech-challenge-users)
-- [Repositório Games](https://github.com/FiapPosTechNett9/tech-challenge-games)
-- [Repositório Payments](https://github.com/FiapPosTechNett9/tech-challenge-payments)
+- [Vídeo Demonstração](https://drive.google.com/drive/u/0/folders/1mwYAxmiwkTvTuq2JkvvudlPThPR87KFl)
+- [Repositório Users](https://github.com/PosTechNett9/tech-challenge-users)
+- [Repositório Games](https://github.com/PosTechNett9/tech-challenge-games)
+- [Repositório Payments](https://github.com/PosTechNett9/tech-challenge-payments)
 
 ---
 
